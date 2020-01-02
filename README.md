@@ -11,7 +11,7 @@ We want to build ever more extraordinary digital experiences for our users and w
 
 This is the website we are going test against: https://staging-fe.drover-test.com/
 
-This is our "pre-production" environment and before we ship anything to production we do extensive testing on this environment. Currently, we only operate inside of UK so during the your tests, make sure you are using a UK phone number and postcode.
+This is our "pre-production" environment and before we ship anything to production we do extensive testing on this environment. Currently, we only operate inside of UK so during your tests, make sure you are using a UK phone number and postcode.
 
 ### The Use Case
 
@@ -28,16 +28,16 @@ Drover's most important flow is the "Booking" flow. So you want to make sure tha
 * Select a date & time you would like the care to be delivered.
 * Click on the blue button "Continue".
 * Fill your insurance history.
-* We will ask you for your driver license data. You can use any number (E.g MORGA657054SM9IJ) and for the picture, use any file on your computer and click on "Continue".
-* Based on the data your on the step before, you might see a warning saying that you won't be able to use Drover's ensurance and you need to use your own, just proceed.
-* For Payment informationm use this test UK creditcard `4000 0082 6000 0000`. Everything else you can fill with anything as long as it is "valid".
+* We will ask you for your driver's license data. You can use any number (E.g MORGA657054SM9IJ) and for the picture, use any file on your computer and click on "Continue".
+* Based on the data your on the step before, you might see a warning saying that you won't be able to use Drover's insurance and you need to use your own, just proceed.
+* For Payment information use this test UK credit card `4000 0082 6000 0000`. Everything else you can fill with anything as long as it is "valid".
 * If you get to the page "Please complete your Credit Kudos affordability check" that's it. :)
 
 ## What Do We Expect From You?
 
-* As you noticed, during the `step-by-step` flow we didn't mentioned any validation checks. You will be the judge of what you think it's important to check during the user flow.
+* As you noticed, during the `step-by-step` flow we didn't mention any validation checks. You will be the judge of what you think it's important to check during the user flow.
 * You can use the technology you think it's going to be the best. At Drover we have CI/CD in place so during the process of deciding the right technologies to automate this use case keep that in mind.
-* Your test suite is expected to grow over time and also to be maintained by others so overall organization and documentation is highly appreacited.
+* Your test suite is expected to grow over time and also to be maintained by others so overall organization and documentation are highly appreciated.
 
 ------
 
