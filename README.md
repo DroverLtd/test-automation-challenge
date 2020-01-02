@@ -1,6 +1,6 @@
 <img src="./static/drover-logo.svg" width="200">
 
-# Drover's Test Automation
+# Test Automation
 
 Drover is a VC-backed, growth-stage marketplace company offering monthly, all-in car subscriptions to customers who want to experience car ownership as it should be: digital, flexible and at a fair, transparent price. For some more detail, check out our press coverage in TechCrunch, Forbes or CityAM.
 
