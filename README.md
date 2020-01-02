@@ -15,23 +15,18 @@ This is our "pre-production" environment and before we ship anything to producti
 
 ### The Use Case
 
-Drover's most important flow is the "Booking" flow. So you want to make sure that at least the basic flow is working properly.
+Drover's one the most important flows is "sign up" during the booking process. So you want to make sure that at least the basic flow is working properly. So starting from the home page you are going to search for PCO cars and do the sign up using automation tools.
 
 #### Step-by-step
 * Visit the Drover's (staging environment) home page.
-* Click on the blue button "Find your car".
+* Click the link "Looking for PCO cars?".
+* Click on the blue button "Find your PCO car".
 * Pick a car.
-* On the checkout page, click on the blue button "Continue".
-* Sign up.
-* Click "Next" on Subscription length.
-* Click "Next" on Additional options. Select to use your own insurance.
-* Select a date & time you would like the care to be delivered.
-* Click on the blue button "Continue".
-* Fill your insurance history.
-* We will ask you for your driver's license data. You can use any number (E.g MORGA657054SM9IJ) and for the picture, use any file on your computer and click on "Continue".
-* Based on the data your on the step before, you might see a warning saying that you won't be able to use Drover's insurance and you need to use your own, just proceed.
-* For Payment information use this test UK credit card `4000 0082 6000 0000`. Everything else you can fill with anything as long as it is "valid".
-* If you get to the page "Please complete your Credit Kudos affordability check" that's it. :)
+* On the car details page you will a section saying "To book this car, you’ll need to create an account with us." so click on the blue button labeled "Create an account".
+* Fill out all the required fields and proceed with "Create an account".
+* Fill out a postcode and insurance history.
+* We will ask you for your driver license data. Use any file on your computer and click on "Next".
+* If you get to a page saying "You’re all set to start your car subscription!" that's it. :)
 
 ## What Do We Expect From You?
 
